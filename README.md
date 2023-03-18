@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Demo Poke on netlify
+https://silly-profiterole-1d59bc.netlify.app/
